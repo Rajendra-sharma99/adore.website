@@ -9,7 +9,8 @@
 <body>
     <?php include 'inc/preloader.php'?>
     <?php include 'inc/header.php'?>
-    <?php include 'snips/hero_section.php'?>
+
+    <?php include 'snips/about_hero_section.php'?>
     <?php include 'snips/about_section.php'?>
     <?php include 'components/counter_section.php'?>
     <?php include 'inc/footer.php'?>
