@@ -17,10 +17,7 @@
                         skills for 10 or 14 continuous days. A combination of several softs skills are discussed, as well 
                         as some technical skills too. It is completely free of charge, and we ask only for participants' 
                         valuable time and effort.</p>
-
-
                 </div>
-
             </div>
         </div>
     </div>
