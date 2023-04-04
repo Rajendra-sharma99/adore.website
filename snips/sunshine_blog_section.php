@@ -108,7 +108,7 @@ img {
                 of good education.</p>
 
             <h2 class = "procedure" style="font-weight: bold;">PROCEDURE</h2>
-            <p style="font-size: 25px;">Conducting a field visit to nearby localities and identifying children who need more educational support.
+            <p style="font-size: 20px;">Conducting a field visit to nearby localities and identifying children who need more educational support.
                 Having humble conversation to build a rapport and later making children understand benefits of learning.
                 Making a schedule for students and conducting regular weekly sessions with them.</p>
         </div>
@@ -118,31 +118,34 @@ img {
 
         <div class=" col-md-8 col-sm">
             <h2 class = "core-teaching" style="font-weight: bold;">CORE TEACHING</h2>
-            <ul>
-                <li>Basic English and math (add, subtract &amp; multiply).</li>
-                <li> Writing and communication skills.</li>
-                <li>Manners and Behavior.</li>
-                <li>Make aware of the common symbols, signs and label lings.</li>
-                <li>Etiquette of cleanliness and hygiene.</li>
-            </ul>
+      
+                <li style="font-size: 20px;">Basic English and math (add, subtract &amp; multiply)</li>
+                <li style="font-size: 20px;"> Writing and communication skills.</li>
+                <li style="font-size: 20px;">Manners and Behavior.</li>
+                <li style="font-size: 20px;">Make aware of the common symbols, signs and label lings.</li>
+                <li style="font-size: 20px;">Etiquette of cleanliness and hygiene.</li>
+      
+
             <p></p>
             <p></p>
             <p></p>
 
             <h2 class = "activities" style="font-weight: bold;">ACTIVITIES</h2>
             <p></p>
-            <ul>
-                <li>Coloring and Painting.</li>
-                <li> General Knowledge.</li>
-                <li>Educative games and activities.</li>
-                <li>Mobile Handling.</li>
-                <li>Digital Money Transfer Process.</li>
-                <li>Connecting with Banking.</li>
-                <li>Having games and toys.</li>
-                <li>Giving Entertainment via Cartoons and Animal Shows.</li>
-            </ul>
+         
+                <li style="font-size: 20px;">Coloring and Painting.</li>
+                <li style="font-size: 20px;"> General Knowledge.</li>
+                <li style="font-size: 20px;">Educative games and activities.</li>
+                <li style="font-size: 20px;">Mobile Handling.</li>
+                <li style="font-size: 20px;">Digital Money Transfer Process.</li>
+                <li style="font-size: 20px;">Connecting with Banking.</li>
+                <li style="font-size: 20px;">Having games and toys.</li>
+                <li style="font-size: 20px;">Giving Entertainment via Cartoons and Animal Shows.</li>
+        
             <p></p>
         </div>
+
+
         <div class="col-md-4 col-sm sun">
             <img style="margin-top:60px;" class = "image2" src="assets\img\sunshine2.jpg" alt="">
         </div>
