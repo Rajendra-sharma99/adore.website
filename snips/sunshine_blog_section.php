@@ -118,7 +118,6 @@ img {
 
         <div class=" col-md-8 col-sm">
             <h2 class = "core-teaching" style="font-weight: bold;">CORE TEACHING</h2>
-            <p></p>
             <ul>
                 <li>Basic English and math (add, subtract &amp; multiply).</li>
                 <li> Writing and communication skills.</li>
