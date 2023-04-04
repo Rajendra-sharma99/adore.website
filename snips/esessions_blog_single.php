@@ -25,7 +25,7 @@
                         Awareness, Public Speaking Sessions, Career Choice, Managing Peer Pressure, Health and Hygiene,
                         Respecting Elders, Teenage Issues, Personality Development and many more.</p>
 
-                    <p style="font-size: 25px;">We familiarize the students with some of the crucial topics by discussing and enticing them with
+                    <p style="font-size: 26px;">We familiarize the students with some of the crucial topics by discussing and enticing them with
                     engaging and challenging discussion questions which creates essential classroom learning
                     opportunities.
                     </p>
