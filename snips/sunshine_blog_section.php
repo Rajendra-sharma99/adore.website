@@ -104,11 +104,11 @@ img {
         <div class=" col-md-8 col-sm">
 
             <h2 style="font-weight: bold;">OBJECTIVE</h2>
-            <p>To give basic informal education to students and elderly people and encourage children who are deprived
+            <p style="font-size: 20px;">To give basic informal education to students and elderly people and encourage children who are deprived
                 of good education.</p>
 
             <h2 class = "procedure" style="font-weight: bold;">PROCEDURE</h2>
-            <p>Conducting a field visit to nearby localities and identifying children who need more educational support.
+            <p style="font-size: 25px;">Conducting a field visit to nearby localities and identifying children who need more educational support.
                 Having humble conversation to build a rapport and later making children understand benefits of learning.
                 Making a schedule for students and conducting regular weekly sessions with them.</p>
         </div>
