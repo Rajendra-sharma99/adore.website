@@ -7,27 +7,6 @@
     background-size: auto;
     background-size: cover;
 }
-
-.default-btn {
-    background-color: #7daaee;
-    color: white;
-    padding: 16px 20px;
-    margin: 8px 0;
-    border: none;
-    cursor: pointer;
-    width: auto;
-    height: 40px;
-    opacity: 0.9;
-    margin-left: 10px;
-    padding-top: 1px;
-}
-
-.default-btn:hover {
-    transform: scale(1.3);
-    background-color: #7daaee;
-    border-color: #7daaee;
-    z-index: 2;
-}
 </style>
 
 

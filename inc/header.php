@@ -7,8 +7,7 @@
                     <ul class="left-info">
                         <li><a href=https://adore.ivdata.in/signup.php?grp=GRP61&zone=Subscribers#" class="default-btn"
                                 style="color:black;">Newsletter</a></li>
-                        <li><a href="programs_webinar.php" class="default-btn" style="color:black;">Webinars</a>
-                        <li>
+                        <li><a href="programs_webinar.php" class="default-btn" style="color:black;">Webinars</a><li>
                     </ul>
                 </div>
                 <div class="col-sm-4 d-none d-md-block">

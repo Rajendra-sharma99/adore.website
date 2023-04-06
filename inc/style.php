@@ -83,7 +83,7 @@
         -webkit-transform: scale(1.2);
         transform: scale(1.2);
 }
-p   {
+p {
     font-size: 20px;
 }
 
@@ -138,6 +138,49 @@ padding-top: 1px;
 .top-header {
     background-color: #0D2F3B;
 }
+
+
+
+
+/* About us section of about components */
+/* .counters {
+    background: #fff;
+    color: black;
+    padding: 40px 20px;
+}
+
+section {
+    position: relative;
+}
+
+*,
+::after,
+::before {
+    box-sizing: border-box;
+}
+
+user agent stylesheet section {
+    display: block;
+}
+
+@media (max-width: 575.98px) body {
+    font-size: 1rem;
+}
+@media (max-width: 770px)
+.counters .container1 {
+    grid-template-columns: repeat(1, 1fr);
+}
+.counters .container1 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+    text-align: center;
+}
+.container1 {
+    margin: 50px 0px;
+    overflow: auto;
+    text-align: center;
+} */
 </style>
 
   

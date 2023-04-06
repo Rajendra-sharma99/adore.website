@@ -12,7 +12,8 @@
 
     <?php include 'snips/about_hero_section.php'?>
     <?php include 'snips/about_section.php'?>
-    <?php include 'components/counter_section.php'?>
+
+    <?php include 'snips/about_details.php'?>
     <?php include 'inc/footer.php'?>
     <?php include 'inc/script.php'?>
 </body>

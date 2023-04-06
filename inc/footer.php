@@ -49,8 +49,24 @@ p {
 @media (min-width: 768px) and (max-width: 991.98px) body {
     font-size: 1rem;
 }
-</style>
 
+
+@media only screen and (min-width: 720px) {
+    .footer_margin_left {
+        margin-left: -80px;
+        margin-top: 30px;
+        color: white;
+    }
+
+}
+
+/* .footer_margin_left {
+            margin-left: -80px;
+            margin-top: 30px;
+            color: white;
+        } */
+        
+</style>
 
 
 
@@ -63,11 +79,13 @@ p {
                 <div class="widget-content">
                     <div class="widget-content">
                         <ul class="address">
-                            <li style="color:white; margin-left:-80px; margin-top:30px;"><i class="ti-mobile"
-                                    style="color:#7daaee;"></i> +91 79804 60134
+                            <li class="footer_margin_left" style="color:white;"><i class="ti-mobile"
+                                    style="color:#7daaee;"></i> +91 79804
+                                60134
                             </li>
-                            <li style="color:white; margin-left:-80px; margin-top:30px;"><i class="ti-email"
-                                    style="color:#7daaee;"></i> info@adoreearth.org
+                            <li class="footer_margin_left" style="color:white;"><i class="ti-email"
+                                    style="color:#7daaee;"></i>
+                                info@adoreearth.org
                             </li>
                         </ul>
                     </div>

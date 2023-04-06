@@ -5,22 +5,23 @@
     width:auto;
     height: 19rem;
 }
-@media (max-width:426px) {
-.row {
-    margin-right: 0px !important;
-}
-}
-@media (max-width:426px){
-.dev {
-    text-align:center;
-    padding: 0;
-    margin-left:0px !important;
-}
+@media (max-width:750px) {
+    .dev {
+        text-align: center;
+        padding: 0;
+        margin-left: 0px !important;
+    }
+
+    .image-hieght-width {
+        width: 100%;
+        height: 110px;
+    }
 }
 </style>
 
 
 <!-- /Contact Header -->
 <div class="pager-header">
-    <img class="image-hieght-width" src="assets\img\soaringWings-hero.png" alt="">
+    <img class="image-hieght-width" style="background-size: cover; background-repeat: no-repeat; background-position: center center;"
+    src="assets\img\soaringWings-hero.png" alt="">
 </div>
