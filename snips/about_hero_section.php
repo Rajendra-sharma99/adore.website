@@ -5,10 +5,7 @@
     height: 19rem;
 }
 
-
 @media (max-width:750px){
-    
-
 .image-hieght-width{
     width:100%;
     height:110px;
@@ -16,8 +13,6 @@
 
 .pager-header{
     background-color:white;
-    padding-top:10px;
-    height:5rem;
 }
 
 }

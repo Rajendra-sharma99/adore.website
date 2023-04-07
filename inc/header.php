@@ -66,8 +66,8 @@
 
                                 <li><a href="workshop.php">Workshops</a>
                                     <ul>
-                                        <li><a href="synergy.php">Upcoming Workshops</a></li>
-                                        <li><a href="webinars_soaringWings.php">Past Workshops</a>
+                                        <li><a href="upcoming_workshops.php">Upcoming Workshops</a></li>
+                                        <li><a href="past_workshops.php">Past Workshops</a>
                                     </ul>
                                 </li>
 
