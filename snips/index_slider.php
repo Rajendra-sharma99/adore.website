@@ -1,3 +1,12 @@
+<style>
+    /* @media (max-width:750px) {
+        ..slider_res{
+            margin: 10px;
+        }
+    } */
+</style>
+
+
 
 <section class="slider-section">
     <div class="slider-wrapper">
@@ -17,9 +26,10 @@
                             <!-- <p class="wow cssanimation fadeInTop" data-wow-delay="1s">Help today because tomorrow you
                                 may be the one who needs helping! <br>Forget what you can get and see what you can
                                 give.</p> -->
-                            <a href="#" class="default-btn wow cssanimation fadeInBottom" data-wow-delay="0.8s">Upcoming
+                            <a href="#" class="slider_res default-btn wow cssanimation fadeInBottom"
+                                data-wow-delay="0.8s">Upcoming
                                 Webinars</a>
-                            <a href="#" class="default-btn wow cssanimation fadeInBottom"
+                            <a href="#" class="slider_res default-btn wow cssanimation fadeInBottom"
                                 data-wow-delay="0.8s">Volunteer</a>
                         </div>
                     </div>
@@ -36,14 +46,15 @@
                             <!-- <p class="wow cssanimation fadeInBottom" data-wow-delay="1s">Help today because tomorrow
                                 you may be the one who needs helping! <br>Forget what you can get and see what you can
                                 give.</p> -->
-                            <a href="#" class="default-btn wow cssanimation fadeInBottom" data-wow-delay="0.8s">Upcoming Webinars</a>
+                            <a href="#" class="default-btn wow cssanimation fadeInBottom" data-wow-delay="0.8s">Upcoming
+                                Webinars</a>
                             <a href="#" class="default-btn wow cssanimation fadeInBottom"
                                 data-wow-delay="0.8s">Volunteer</a>
                         </div>
                     </div>
                 </div>
             </div>
-            
+
         </div> <!-- /#slider-caption-2 -->
         <div id="slider-caption-3" class="nivo-html-caption slider-caption">
             <div class="display-table">

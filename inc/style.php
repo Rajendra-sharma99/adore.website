@@ -1,5 +1,4 @@
 
-
 <!-- Font Awesome Icons CSS -->
 <link rel="stylesheet" href="assets/css/font-awesome.min.css">
 <!-- Themify Icons CSS -->
@@ -140,10 +139,8 @@ padding-top: 1px;
 }
 
 
-
-
-/* About us section of about components */
-/* .counters {
+/* About Details.php */
+.counters {
     background: #fff;
     color: black;
     padding: 40px 20px;
@@ -180,7 +177,33 @@ user agent stylesheet section {
     margin: 50px 0px;
     overflow: auto;
     text-align: center;
-} */
+} 
+
+/* Program Components Hero section */
+.image-hieght-width {
+    width: 150rem;
+    height: 19rem;
+}
+
+@media (max-width:750px){
+.image-hieght-width{
+    width:100%;
+    height:110px;
+}
+
+.pager-header{
+    background-color:white;
+}
+}
+
+
+
+
+
+
+
+
+
 </style>
 
   
